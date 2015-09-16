@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:26.470671
+#+DATE: 2015-08-31 05:55:26.908657
 #+TITLE: 決罪福經
 #+PROPERTY: CBETA_ID T85n2868
 #+PROPERTY: ID KR6u0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2868
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6u0004_T_000-1328b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0004_T_001-1328b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2868¶
-
- 佛說決罪福經卷上¶
+No. 2868¶
+佛說決罪福經卷上¶
 ¶
 
 明師守□□□□□□□□□□□□□□¶
