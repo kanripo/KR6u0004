@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:26.492291
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:00
 #+TITLE: 決罪福經
 #+PROPERTY: CBETA_ID T85n2868
 #+PROPERTY: ID KR6u0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2868
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0004_T_000-1328b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0004_T_002-1329c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 佛說決罪福經卷下¶
+佛說決罪福經卷下¶
 ¶
 
 慧法菩薩白佛言。若善男子善女人。受佛五¶
@@ -249,7 +248,7 @@
 之所觸嬈。求作沙門則得從順。阿難作佛形¶
 像其福大多。今我少說耳。可滅大罪。作佛形¶
 像世世身黃金色。一一毛孔各出種種微妙¶
-異香。世世自識宿命。阿難白佛言。甚善甚¶
+異香。世世自識宿命。阿難自佛言。甚善甚¶
 善。要須清淨沙門及諸白衣深笠信者可共¶
 作乎。佛言。如是作佛精舍圖列形像。令四輩¶
 禮拜勸動人心。其福弘大。要須沙門乃得成¶
